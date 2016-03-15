@@ -1,4 +1,4 @@
-# grunt-assets-reving
+# grunt-assets-rev
 
 ## Overview
 
@@ -8,12 +8,12 @@ Grunt.js plugin that searches requested files for linked CSS and JS assets, appe
 
 Install this grunt plugin next to your project's gruntfile with:
 
-`npm install grunt-assets-reving`
+`npm install grunt-assets-rev`
 
 Then add this line somewhere in your `grunt.js`:
 
 ```javascript
-grunt.loadNpmTasks('grunt-assets-reving');
+grunt.loadNpmTasks('grunt-assets-rev');
 ```
 
 Inside your `grunt.js` file add a section named `rev`.

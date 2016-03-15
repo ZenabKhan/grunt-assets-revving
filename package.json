@@ -1,23 +1,23 @@
 {
-  "name": "grunt-assets-reving",
+  "name": "grunt-assets-rev",
   "description": "Assets revving task for Grunt. It is forked to update npm package compatible with grunt version >= 4.0 ",
   "version": "0.0.1",
-  "homepage": "https://github.com/contolini/grunt-assets-revving",
+  "homepage": "https://github.com/ZenabKhan/grunt-assets-revving.git",
   "author": {
     "name": "Chris Contolini",
     "url": "http://contolini.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/contolini/grunt-assets-revving.git"
+    "url": "https://github.com/ZenabKhan/grunt-assets-revving.git"
   },
   "bugs": {
-    "url": "https://github.com/contolini/grunt-assets-revving/issues"
+    "url": "https://github.com/ZenabKhan/grunt-assets-revving/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/contolini/grunt-assets-revving"
+      "url": "https://github.com/ZenabKhan/grunt-assets-revving"
     }
   ],
   "main": "tasks/assets-revving.js",
