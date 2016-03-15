@@ -1,6 +1,6 @@
 {
-  "name": "grunt-assets-revving",
-  "description": "Assets revving task for Grunt.",
+  "name": "grunt-assets-reving",
+  "description": "Assets revving task for Grunt. It is forked to update npm package compatible with grunt version >= 4.0 ",
   "version": "0.0.1",
   "homepage": "https://github.com/contolini/grunt-assets-revving",
   "author": {
